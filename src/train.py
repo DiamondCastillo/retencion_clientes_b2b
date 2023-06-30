@@ -1,7 +1,7 @@
 # Código de Entrenamiento - Modelo de Retención de clientes - Menús
 ############################################################################
 
-
+# importando librerias
 import pandas as pd
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.preprocessing import RobustScaler
